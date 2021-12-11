@@ -5,4 +5,4 @@ function auth (login: number | string, password: number | string) {
 	} else {
 		return "Login or password is correct!!!"
 	}
-}
+}				
